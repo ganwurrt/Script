@@ -1,6 +1,10 @@
 # Update > 2023/04/28
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,ether-pacj.pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN-SUFFIX,ether-pacj.pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,p9-be-pack-sign.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,apoll.m.taobao.com,REJECT
 DOMAIN-SUFFIX,comet.yahoo.com,REJECT
